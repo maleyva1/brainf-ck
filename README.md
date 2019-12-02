@@ -3,7 +3,7 @@
 
 It's honestly not that great but I needed something to do on my spare time. Should work with most Brainfuck files. I do some parsing and check if `[` `]` are well-balanced but nothing else beyond that.
 
-I haven't tested this extensively but I have used a few of the files [here](http://www.hevanet.com/cristofd/brainfuck/). With files that require input, you might need to use `CTRL+C` to exit. Also of note, some of the Brainfuck programs on the previous link do not terminate so read the notes.
+I haven't tested this extensively but I have used a few of the files [here](http://www.hevanet.com/cristofd/brainfuck/). With files that require input, you might need to use `CTRL+C` to exit. Also of note, some of the Brainfuck programs on the previous link do not terminate so read the notes carefully.
 
 ## Building
 Requirements:
