@@ -14,7 +14,7 @@ Requirements:
 Run `make` or `make build`.
 
 ## Debugging
-Run `make debug` to get the binary with debug symbols. Run `gdb .\bf --f FILENAME` to debug.
+Run `make debug` to get the binary with debug symbols. Run `gdb .\bf` to debug.
 
 ## Usage
 Run `.\bf --f FILENAME` to run a Brainfuck file, where `FILENAME` is the path of the file. Use `--h` to get help and dispaly information about the interpreter.
