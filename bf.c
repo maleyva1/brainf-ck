@@ -185,7 +185,7 @@ char* bf_ParseFile(FILE *fp)
                 
         }
         if(i >= MAX_SIZE) {
-            file = realloc(file, MAX_SIZE*sizeof(file));
+            file = (char *)realloc(file, MAX_SIZE*sizeof(file));
         }
     }
 
